@@ -1,0 +1,18 @@
+h1{
+    font-family:arial;
+    font-size:60px;
+    color:white;
+    text-outline: 2px 2px #ff0000;
+}
+body{
+    background-image:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuWhQjG1QP96KTNuC12Jy1JpoYIOSCp_ANjWF4qGJwi46gHdZA);
+    color:white;
+}
+li{
+    list-style-type:none;
+    font-size:20px;
+    color:white;
+}
+#bob{
+    float:left;
+}
